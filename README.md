@@ -23,10 +23,3 @@ chmod +x stathelper.sh
 ./stathelper.sh
 ```
 El script recolectará información básica del sistema y el LLM intentará dar un diagnóstico.
-
-## Estructura
-.
-├──stathelper.sh
-├──old/
-├──*.txt (archivos temporales, ignorados por git)
-└──README.md
