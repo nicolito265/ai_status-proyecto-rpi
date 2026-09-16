@@ -1,7 +1,0 @@
-Estado_del_Sistema
-
-Temperatura CPU (°C): 69
-[39CMemory: 240.28 MiB / 1.96 GiB (12%)
-[39CSwap: 32.06 MiB / 1.96 GiB (2%)
-Ping a Google: 
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
