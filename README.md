@@ -10,6 +10,10 @@
 ```bash
 curl -LsSf https://llama.app/install.sh | sh
 ```
+- Llama-3.2-1B-Instruct
+```bash
+mkdir -p ~/modelos_ia && wget -c -P ~/modelos_ia "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+```
 ## Instalación
 
 ```bash
