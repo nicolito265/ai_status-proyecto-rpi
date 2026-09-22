@@ -6,6 +6,9 @@
 - Sistema Operativo Debian 13 (Preferible sin GUI)
 - Bash
 - Fastfetch
+```bash
+sudo apt install fastfetch
+```
 - llama.cpp
 ```bash
 curl -LsSf https://llama.app/install.sh | sh
